@@ -7,6 +7,8 @@
 */
 
 
+
+
 create table orders(
 	order_id int not null,
 	user_id int not null,
