@@ -6,10 +6,6 @@
     ii. 输出订单总量从大到小排名在前50%的用户及其订单笔数，同时输出其交易笔数占全量订单笔数的占比。
 */
 
-
-
-
-
 create table orders(
 	order_id int not null,
 	user_id int not null,
